@@ -528,7 +528,7 @@ footer{
 
   }
 
-/* Pagina Diseño web Responsive*/
+ /* Pagina Diseño web Responsive*/
 
   @media screen and (max-width: 500px){
     .menu-navegacion{
@@ -545,11 +545,11 @@ footer{
       }
 
       .contenedor-tabla { 
-          width: 55%;
+          width: 80%;
           margin-bottom: 20px; 
           height: 20%; 
           margin-top: 40px;
-          
+           
        }
 
        .boton-pagar {  
@@ -560,5 +560,4 @@ footer{
         width: auto;
     }
 
-    
-    }
+}
