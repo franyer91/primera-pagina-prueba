@@ -415,7 +415,7 @@ footer{
 .header-diseño{
     height: 50vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(58, 131, 153, 0.486) 0%, hsla(218, 20%, 46%, 0.514) 100%), url(img/office-1834294.jpg);
+    background-image: linear-gradient(to top, rgba(58, 131, 153, 0.486) 0%, hsla(218, 20%, 46%, 0.514) 100%), url(img/office.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
