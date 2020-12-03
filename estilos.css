@@ -528,4 +528,66 @@ footer{
 
   }
 
+/* Pagina Diseño web Responsive*/
+
+  @media screen and (max-width: 800px){
+    .menu-navegacion{
+        width: 50vw;
+    }
+
+    .titulo-diseño{
+        font-size: 25px;
+      }
+
+      .titulo-tabla{  
+          font-size: 25px;
+      }
+
+      .contenedor-tabla { 
+          width: 100%;
+          margin-bottom: 10px;  
+          
+       }
+
+       .boton-pagar {  
+        width: auto;
+    }
+
+    .tabla h2 h3 {  
+        font-size: 23px;
+    }
+
+    
+    }
+
+    @media screen and (max-width: 500px){
+        .menu-navegacion{
+            width: 50vw;
+        }
+    
+        .titulo-diseño{
+            font-size: 25px;
+          }
+    
+          .titulo-tabla{  
+              font-size: 25px;
+          }
+    
+          .contenedor-tabla { 
+              width: 50%;
+              height: 20%;
+              margin-bottom: 10px;  
+              
+           }
+
+           .tabla a {  
+               width: 95%;
+           }
+
+           .social-media{
+            width: 70%;
+            justify-content: space-evenly;
+        }
+         
+    }
 
