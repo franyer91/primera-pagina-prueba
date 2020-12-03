@@ -545,9 +545,10 @@ footer{
       }
 
       .contenedor-tabla { 
-          width: 50%;
-          margin-bottom: 10px; 
+          width: 55%;
+          margin-bottom: 20px; 
           height: 20%; 
+          margin-top: 40px;
           
        }
 
@@ -555,8 +556,8 @@ footer{
         width: auto;
     }
 
-    .tabla h2 h3 {  
-        font-size: 1px;
+    .tabla  {  
+        width: auto;
     }
 
     
