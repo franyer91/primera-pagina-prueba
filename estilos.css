@@ -559,5 +559,13 @@ footer{
     .tabla  {  
         width: auto;
     }
+    
+    .brand { 
+        font-size: 23px;
+     }
+
+     .contact-us p { 
+        font-size: 15px;
+     }
 
 }
