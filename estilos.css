@@ -577,7 +577,7 @@ footer{
 /* PAGINA TELEFONIA*/
 
 .headar-telefonia { 
-    background-image: linear-gradient(to top, rgba(30, 107, 131, 0.486) 0%, hsla(290, 20%, 46%, 0.514) 100%), url(img/telefonia-pag.jpg); 
+    background-image: linear-gradient(to top, rgba(30, 107, 131, 0.486) 0%, hsla(290, 20%, 46%, 0.514) 100%), url(img/header-telefonia.jpg); 
     height: 50vh;
     display: flex;
     align-items: center;
@@ -681,6 +681,6 @@ footer{
      }
 
      .voip {  
-         width: 55%;
+         width: auto;
      }
  }
