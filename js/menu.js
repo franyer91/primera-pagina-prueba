@@ -13,3 +13,5 @@ window.addEventListener('click', e =>{
         menu.classList.toggle("spread")
     }
 })
+
+AOS.init();
