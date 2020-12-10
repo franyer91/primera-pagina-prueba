@@ -889,6 +889,10 @@ footer{
     margin-bottom: 6px;
   }
 
+ .caja-servicios img{
+    object-fit: cover;
+  }
+
   /* NUESTRO EQUIPO*/
 
 .team-contenedor { 
